@@ -1,23 +1,35 @@
-⚙️ CryptoSoft Volume Farmer
+# ⚙️ CryptoSoft Volume Farmer
 
-Представляем мощный инструмент для фарминга объёмов с полной автоматизацией и гибкими настройками.
+Introducing a powerful tool for volume farming with full automation and flexible controls.
 
-🔧 Что умеет прямо сейчас:
-— Одновременная работа с несколькими аккаунтами через зеркальные сделки
-— Поддержка Backpack и Paradex
-— Гибкое управление входом и выходом из позиций:
- ▪️ вручную
- ▪️ по времени
- ▪️ по ликвидации
- ▪️ по изменению цены
-— PRO-режим с лимитными ордерами
-— Автообновление и стабильная работа без ручного вмешательства
-— Продуманная логика — код полностью отлажен и готов к длительным сессиям
+## 🔧 Features
 
-📘 Актуальный гайд: [[ссылка](https://abiding-canidae-090.notion.site/Backpack-1f3b5892e3db8032b779c0306f9d0280)]
+- Works on **Windows** & **macOS** (Apple Silicon & Intel)
+- Simultaneous operation with **multiple accounts** via mirror trades
+- Support for **Backpack** and **Paradex**
+- **HTTP** & **HTTPS** proxy support
+- **PRO Mode** with limit orders
+- **Auto-updates** and stable performance with zero manual intervention
+- **Battle-tested logic** — fully optimized for long sessions
+- **Flexible control** over position entry and exit
 
-❗️Напоминаем: автоматизация ≠ бездумный фарм. Это не просто бот — это часть вашей стратегии.
+### 🚀 Closing Trades
 
-CryptoSoft даёт инструмент — ты управляешь риском.
+- Manually via a button
+- By timer (based on your settings)
+- On liquidation of either side
+- Based on percentage (%) price movement
 
-Получить доступ можно в боте.
+---
+
+The software auto-updates every time you launch it — **download and install once, and you're good to go!**
+
+> ❗️ **Reminder:**  
+> Automation ≠ reckless farming.  
+> This isn't "just a bot" — it's a strategic tool in your arsenal.
+
+**CryptoSoft provides the tool — you manage the risk.**
+
+---
+
+🔗 **Access available via the bot.**
